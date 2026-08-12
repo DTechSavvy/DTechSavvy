@@ -2,7 +2,7 @@
 
 #  Hey, I'm Noel Tony
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Full-Stack+Developer;AI+Enthusiast;Building+Ideas+Into+Working+Software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=%3E+Initializing+Noel+Tony...;%3E+Computer+Engineering+Student;%3E+Full-Stack+Developer;%3E+AI+Enthusiast;%3E+Building+Ideas+Into+Working+Software" alt="Typing SVG" />
 
 <br>
 
