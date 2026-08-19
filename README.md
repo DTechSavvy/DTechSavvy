@@ -17,7 +17,7 @@
 public class NoelTony {
 
     String name = "Noel Tony";
-    String education = "B.Tech in Computer Engineering";
+    String education = "B.Tech Computer Engineering";
     String role = "Software Developer";
 
     String[] focus = {
