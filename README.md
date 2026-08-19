@@ -28,11 +28,6 @@ public class NoelTony {
     String philosophy = "Build. Learn. Improve.";
 }
 ```
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=DTechSavvy&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile views" />
-
-</div>
 ---
 
 ## 🛠️ Tech Stack
